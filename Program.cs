@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("From Github");
             Console.WriteLine("New Branch");
             Console.WriteLine("master");
+            Console.WriteLine("Branch2");
         }
     }
 }
